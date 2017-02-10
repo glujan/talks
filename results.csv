@@ -33,7 +33,7 @@ httptools (callback) + uvloop,,,
 90%,558.00us,1.61ms,1.30ms
 99%,813.00us,3.11ms,2.47ms
 ,,,
-C#,,,
+C#,(default serializer on!),,
 50%,632.00us,2.43ms,5.63ms
 75%,1.14ms,4.39ms,10.16ms
 90%,2.35ms,7.27ms,15.80ms
